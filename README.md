@@ -3,7 +3,7 @@ Opioid project
 --------------
  <pre>
 1.Opioid study 
-2.Strategies combating Opiod
+2.Strategies combating Opioid
 3.Increasing awareness
 </pre>
 
